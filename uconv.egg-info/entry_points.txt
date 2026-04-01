@@ -1,0 +1,2 @@
+[console_scripts]
+uconv = uconv.cli:main

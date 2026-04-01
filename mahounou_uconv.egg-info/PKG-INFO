@@ -1,3 +1,30 @@
+Metadata-Version: 2.1
+Name: mahounou-uconv
+Version: 0.2.0
+Summary: Lightweight unit converter library with support for 13 unit categories
+Home-page: https://github.com/ksnjkdppdojdim-star/UconvPy
+Author: Mahounou Dev Team
+Author-email: 
+License: MIT
+Project-URL: Bug Reports, https://github.com/ksnjkdppdojdim-star/UconvPy/issues
+Project-URL: Source, https://github.com/ksnjkdppdojdim-star/UconvPy
+Keywords: units converter measurement distance weight time currency temperature speed area volume energy pressure power data
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
 # Mahounou UConv (Python)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

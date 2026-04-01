@@ -1,4 +1,5 @@
 from ..units import get_conversion_factor
+from ..utils import factor_convert
 
 
 def convert_weight(value: float, from_unit: str, to_unit: str) -> float:
@@ -9,6 +10,5 @@ def convert_weight(value: float, from_unit: str, to_unit: str) -> float:
     if from_factor is None or to_factor is None:
         raise ValueError('Invalid weight unit')
     
-    base_value = value * from_factor
-    return base_value / to_factor
+    return factor_convert(value, from_factor, to_factor)
 

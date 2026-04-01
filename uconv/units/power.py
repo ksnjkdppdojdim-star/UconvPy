@@ -1,0 +1,17 @@
+UNITS = {
+    'w': 1,
+    'watt': 1,
+    'watts': 1,
+    'kw': 1000,
+    'kilowatt': 1000,
+    'mw': 1000000,
+    'megawatt': 1000000,
+    'gw': 1000000000,
+    'gigawatt': 1000000000,
+    'hp': 745.7,
+    'horsepower': 745.7,
+    'bhp': 745.7,
+    'ps': 735.499,
+    'cal/s': 4.184,
+    'kilocalorie_per_second': 4184,
+}
